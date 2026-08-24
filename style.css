@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    border: 2px solid black;
+    margin-inline: auto;
+    display: inline-block;
+    padding: 10px;
+}
