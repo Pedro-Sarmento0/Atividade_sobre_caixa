@@ -4,8 +4,67 @@
     box-sizing: border-box;
 }
 .container{
-    border: 2px solid black;
+    width: 450px;
     margin-inline: auto;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+.Foto{
+    border: 2px solid black;
+    width: 200px;
+    padding-bottom: 160px;
+}
+.contato{
+    border: 2px solid black;
+    width: 180px;
+    padding-block: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.Nome{
+    border: 1px solid gray;
+    margin-bottom: 10px;
+}
+.Cargo{
+    border: 1px solid gray;
+    margin-bottom: 10px;
+}
+.E-mail{
+    border: 1px solid gray;
+    margin-bottom: 10px;
+}
+.Primeiro {
+    border: 1px solid gray;
+    margin-bottom: 40px;
+}
+.Segundo {
+    border: 1px solid gray;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.num1{
+    border: 1px solid black;
+    padding-right: 60px;
+    padding-bottom: 70px;
     display: inline-block;
-    padding: 10px;
+}
+.num2{
+    border: 1px solid black;
+    padding-right: 10px;
+    padding-bottom: 70px;
+    display: inline-block;
+    margin: -4px;
+}
+.num3{
+    border: 1px solid black;
+    padding-right: 70px;
+    padding-bottom: 70px;
+    display: inline-block;
+    margin-left: 4px;
+}
+footer{
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-inline: 25px 15px;
 }
